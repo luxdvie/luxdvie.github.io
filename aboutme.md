@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: So, who am I anyway?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Austin Brown. I have been coding since I made the game Jeopardy in Microsoft PowerPoint (2000!).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My projects are mainly based on web technologies like Angular or jQuery, ASP.NET or C#, Arduino or Raspberry Pi projects, and a bit of everything mixed in between.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This website exists so I can share some of the fun things I've been working on.
