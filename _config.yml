@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Austin Brown
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: What I am working on lately
 
 # Your name to show in the footer
-author: Some Person
+author: Austin Brown
 
 # --- List of links in the navigation bar --- #
 
@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "austrinbrown2500@gmail.com"
+#  facebook:
+  github: luxdvie
+# twitter: luxdvie
   rss: true
+  linkedin: ab2500
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "luxdvie.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
