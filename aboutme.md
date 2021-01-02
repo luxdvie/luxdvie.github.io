@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: So, who am I anyway?
+js: /assets/js/avatar.js
 ---
 
 My name is Austin Brown. I have been coding since I made the game Jeopardy in Microsoft PowerPoint (2000!).

@@ -1,0 +1,1 @@
+console.log('Avatar script was successfully loaded.');
