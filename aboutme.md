@@ -5,7 +5,7 @@ subtitle: So, who am I anyway?
 js: /assets/js/avatar.js
 ---
 
-<div style="float:left;"><img style="width:200px;" src="./assets/img/damien-full.PNG"></div>
+<div style="float:left;"><img style="width:200px;" src="/assets/img/damien-full.PNG"></div>
 <p>
 My name is Austin Brown.  I have been coding since I made the game Jeopardy in Microsoft PowerPoint (2000!).
 </p>
